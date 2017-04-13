@@ -1,7 +1,8 @@
 # FinalYearProject
 
 **About**
-Aim of the project was creating small web application, thanks to it we are able to categorize tweets for five crime 
+
+Aim of the project was creating web application, thanks to it we are able to categorize tweets for five crime 
 categories(no crime, murder, drugs, harrasment, terrorism) using machine learning techniques(Native Bayes, Stochastic 
 gradient descent, Multilayer Perceptron, Nearest centroid).
   ̇
@@ -9,8 +10,8 @@ gradient descent, Multilayer Perceptron, Nearest centroid).
 **Installation**
 
 To configure project, please do following steps:  ́
-1. Clone/download project from repository: https:// github.com/ draz123/FinalYearProject na dysk twardy.
-2. Python – Install 2.7 version from  https://www.python.org/downloads/
+1. Clone/download project from repository: https://github.com/draz123/FinalYearProject
+2. Python – Install 2.7 version from https://www.python.org/downloads/
 
 3. pip(ang. package manager) – If we are using python version 2.7.9 or higher, pip is automatically installed with it.
 Otherwise
