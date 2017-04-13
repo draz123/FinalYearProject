@@ -38,6 +38,6 @@ To do it, we have to do 2 steps, after that we are able to see our application u
 python Controller.py
 node render_server.js
 
-Moreover, project has ”evaluation” module, thanks to it we are able to get fast summary of evaluation.
+Moreover, project has ”evaluation” module, thanks to it we are able to get fast summary of evaluation. To check it, execute:
 python evaluation\ResultsEvaluation.py
 
